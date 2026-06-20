@@ -22,7 +22,6 @@ public class Produto {
 
     private BigDecimal preco;
 
-    private boolean estoque;
-
+    private Boolean estoque;
 
 }
